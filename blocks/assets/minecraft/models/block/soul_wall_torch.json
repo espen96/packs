@@ -1,0 +1,76 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/soul_wall_torch"
+	},
+	"elements": [
+		{
+			"from": [0, 5, 7],
+			"to": [1, 10, 9],
+			"faces": {
+				"north": {"uv": [15, 0, 16, 5], "texture": "#particle"},
+				"east": {"uv": [14, 0, 16, 5], "texture": "#particle"},
+				"south": {"uv": [15, 0, 16, 5], "texture": "#particle"},
+				"west": {"uv": [14, 0, 16, 5], "texture": "#particle"},
+				"up": {"uv": [15, 0, 16, 2], "texture": "#particle"},
+				"down": {"uv": [15, 0, 16, 2], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [2, 6, 6],
+			"to": [6, 17, 10],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [5, 0, 9, 11], "texture": "#particle"},
+				"east": {"uv": [5, 0, 9, 11], "texture": "#particle"},
+				"south": {"uv": [5, 0, 9, 11], "texture": "#particle"},
+				"west": {"uv": [5, 0, 9, 11], "texture": "#particle"},
+				"up": {"uv": [12, 11, 16, 15], "texture": "#particle"},
+				"down": {"uv": [12, 11, 16, 15], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [1, 7, 5],
+			"to": [7, 9, 11],
+			"faces": {
+				"north": {"uv": [10, 8, 16, 10], "texture": "#particle"},
+				"east": {"uv": [10, 8, 16, 10], "texture": "#particle"},
+				"south": {"uv": [10, 8, 16, 10], "texture": "#particle"},
+				"west": {"uv": [10, 8, 16, 10], "texture": "#particle"},
+				"up": {"uv": [10, 0, 16, 6], "texture": "#particle"},
+				"down": {"uv": [10, 0, 16, 6], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [1, 13, 5],
+			"to": [7, 15, 11],
+			"faces": {
+				"north": {"uv": [10, 6, 16, 8], "texture": "#particle"},
+				"east": {"uv": [10, 6, 16, 8], "texture": "#particle"},
+				"south": {"uv": [10, 6, 16, 8], "texture": "#particle"},
+				"west": {"uv": [10, 6, 16, 8], "texture": "#particle"},
+				"up": {"uv": [10, 0, 16, 6], "texture": "#particle"},
+				"down": {"uv": [10, 0, 16, 6], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [4, 3, 6.5],
+			"to": [4.01, 19, 9.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4, 15, 8]},
+			"faces": {
+				"east": {"uv": [1, 0, 4, 16], "texture": "#particle"},
+				"west": {"uv": [1, 0, 4, 16], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [2.5, 3, 8],
+			"to": [5.5, 19, 8.01],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4, 15, 8]},
+			"faces": {
+				"north": {"uv": [1, 0, 4, 16], "texture": "#particle"},
+				"south": {"uv": [1, 0, 4, 16], "texture": "#particle"}
+			}
+		}
+	]
+}

@@ -1,0 +1,1 @@
+{"parent":"block/cube_all","textures":{"layer0":"block/wheat"},"overrides":[{"predicate":{"custom_model_data":1},"model":"botwmaterial520"},{"predicate":{"custom_model_data":2},"model":"botwmaterial521"}]}

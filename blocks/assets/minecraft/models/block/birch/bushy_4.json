@@ -1,0 +1,8 @@
+{
+	"credit": "Made by AlleCraft",
+	"parent": "minecraft:block/bushy_4",
+	"textures": {
+		"bushy": "minecraft:block/birch_leaves_bushy",
+		"leaves": "minecraft:block/birch_leaves"
+	}
+}
