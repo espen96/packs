@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "minecraft:block/cherry_log1"
+    },
+	{
+      "model": "minecraft:block/cherry_log2"
+    },
+	{
+      "model": "minecraft:block/cherry_log3"
+    },
+	{
+      "model": "minecraft:block/cherry_log1"
+    },
+	{
+      "model": "minecraft:block/cherry_log1"
+    }
+	]
+  }
+}
